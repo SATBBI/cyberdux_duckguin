@@ -9,6 +9,7 @@ It is our aim to create conflict with this project.
 
 ### Rockhopper (Abhi, Elizna)
 
+### Gentoo Penguin (Alicen)
 
 ### Add your penguin (and your name)
 
