@@ -17,8 +17,6 @@ It is our aim to create conflict with this project.
 
 [Magellanic penguins](https://en.wikipedia.org/wiki/Magellanic_penguin) are medium-sized penguins named after the explorer Ferdinand Magellan, who first spotted them in 1520.
 
-![]
-
 They have a habit of braying like donkeys when communicating, earning them the nickname "jackass penguins" among locals. 
 
 These birds sport a distinctive "formal wear" appearance with a black back, white belly, and two black bands across their chest that look like a dapper tuxedo with a double belt.
