@@ -31,7 +31,6 @@ The species is currently listed as near threatened by the The International Unio
 
 They face threats from overfishing, oil pollution, climate change, and human disturbance.
 
-Conservation efforts include marine protected areas, pollution control, tourism management, and global partnerships.
 
 Conservation efforts like protected areas, pollution control, and global teamwork give hope for their survival.
 
