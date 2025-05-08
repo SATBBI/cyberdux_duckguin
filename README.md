@@ -10,5 +10,8 @@ It is our aim to create conflict with this project.
 ### Rockhopper (Abhi, Elizna)
 
 
+### Little Blue (Kimberly)
+
+
 ### Add your penguin (and your name)
 
