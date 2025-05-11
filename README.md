@@ -10,5 +10,5 @@ It is our aim to create conflict with this project.
 ### Rockhopper (Abhi, Elizna)
 
 
-### Add your penguin (and your name)
+### Chinstrap (Devon)
 
