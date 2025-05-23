@@ -15,7 +15,7 @@ It is our aim to create conflict with this project.
 
 Chinstrap penguins can be found mainly on the Antarctic Peninsula and on islands in the South Atlantic Ocean.
 Their conservation status is "least concern", however numbers are declining because of reduction in krill.
-They forage anytime of the day or night but concentrate efforts around midnight and noon.
+They forage any time of the day or night but concentrate efforts around midnight and noon.
 Unlike other penguin species they lay two eggs and nurture both chicks during the summer months.
 Chinstrap penguins can live to be 16-20 years old.
 
