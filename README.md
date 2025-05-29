@@ -22,7 +22,7 @@ The royal penguin is classified in the IUCN Red List of Threatened Species as 'L
 
 ### Rockhopper *(Abhi, Elizna)*
 
-The Rockhopper is a penguin worth fighting for. It has the best head of all penguins. It can also speak 17 languages. Or maybe that is Abhinav I am speaking of.
+The Rockhopper is a penguin that clearly hops on rocks. It has the best head of all penguins. It can also speak 17 languages. Wait,  that is Abhinav I'm thinking of. 
 
 ### African Penguin 🐧 (Anel)
 
