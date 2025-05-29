@@ -34,8 +34,18 @@ In my research on the topic, I learned two things:
 2. "The Old World" is a term applied to Asia, Europe and Africa, to note the known world before the discovery of the Americas and Australia<sup><a href="https://en.m.wikipedia.org/wiki/Old_World">2</a></sup>.
 
 
-### Chinstrap (Devon)
+### Chinstrap *(Devon)*
   * The chinstrap penguin (**Pygoscelis antarcticus**) gets its name from the narrow black band under its head, and inhabits a variety of islands and shores in the Southern Pacific and the Antarctic Oceans. ![Chinstrap Penguin](https://en.wikipedia.org/wiki/Chinstrap_penguin#/media/File:South_Shetland-2016-Deception_Island%E2%80%93Chinstrap_penguin_(Pygoscelis_antarctica)_04.jpg)
+
+
+### Chinstrap penguin *(Michelle)*
+![image](https://github.com/user-attachments/assets/b7c06ec7-5539-442a-843a-555bc5339c0f)
+
+Chinstrap penguins can be found mainly on the Antarctic Peninsula and on islands in the South Atlantic Ocean.
+Their conservation status is "least concern", however numbers are declining because of reduction in krill.
+They forage any time of the day or night but concentrate efforts around midnight and noon.
+Unlike other penguin species they lay two eggs and nurture both chicks during the summer months.
+Chinstrap penguins can live to be 16-20 years old.
 
 
 ### Add your penguin *(and your name)*
