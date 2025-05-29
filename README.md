@@ -34,7 +34,11 @@ In my research on the topic, I learned two things:
 Contributed by [DevonAllies](https://github.com/DevonAllies), [MichellePrk](https://github.com/MichellePrk)<br><br>
   * The chinstrap penguin (**Pygoscelis antarcticus**) gets its name from the narrow black band under its head, and inhabits a variety of islands and shores in the Southern Pacific and the Antarctic Oceans.
 
-Chinstrap penguins can be found mainly on the Antarctic Peninsula and on islands in the South Atlantic Ocean. Their conservation status is "least concern", however numbers are declining because of reduction in krill. They forage any time of the day or night but concentrate efforts around midnight and noon. Unlike other penguin species they lay two eggs and nurture both chicks during the summer months. Chinstrap penguins can live to be 16-20 years old.
+Chinstrap penguins can be found mainly on the Antarctic Peninsula and on islands in the South Atlantic Ocean.
+Their conservation status is "least concern", however numbers are declining because of reduction in krill.
+They forage any time of the day or night but concentrate efforts around midnight and noon.
+Unlike other penguin species they lay two eggs and nurture both chicks during the summer months.
+Chinstrap penguins can live to be 16-20 years old.
 
 ![image](https://github.com/user-attachments/assets/b7c06ec7-5539-442a-843a-555bc5339c0f)
 
@@ -125,4 +129,4 @@ What Wikipedia says about me: The yellow-eyed penguin, known also as hoiho (very
 
 ![image](https://github.com/user-attachments/assets/d878f80e-527d-4e5a-a54d-bf3cb6fbc08f)
 
-<br>
+
