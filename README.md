@@ -33,8 +33,15 @@ In my research on the topic, I learned two things:
 1. They are the only penguins that (naturally) occur in "The Old World"<sup><a href="https://en.m.wikipedia.org/wiki/African_penguin">1</a></sup>.
 2. "The Old World" is a term applied to Asia, Europe and Africa, to note the known world before the discovery of the Americas and Australia<sup><a href="https://en.m.wikipedia.org/wiki/Old_World">2</a></sup>.
 
+### Yellow-eyed (Emilyn)
+
+What Wikipedia says about me: The yellow-eyed penguin, known also as hoiho (very cute, uh?!), is a species of penguin endemic to New Zealand. It is the sole extant species in the genus Megadyptes (uau!). Previously thought closely related to the little penguin, molecular research has shown it more closely related to penguins of the genus Eudyptes (surpriiiise!). I am part of an endangered population 😔!
+
+![image](https://github.com/user-attachments/assets/d878f80e-527d-4e5a-a54d-bf3cb6fbc08f)
+
 
 ### Macaroni Penguin *(Emma)*
+
 ![macaroni_penguin](https://github.com/user-attachments/assets/faf3ae95-eb56-435a-9083-a663d5153822)
 
 Macaronis are the most abundant species of penguin, with 18 million individuals worldwide, spread out over the Subantarctic to Antarctic Peninsula.
@@ -70,4 +77,6 @@ Beyond their elegant aesthetics, Gentoo penguins are renowned for their remarkab
 **Image sources:** <a href="https://www.josephfiler.com/photo/antarctica-penguin-3986/">top left</a>, <a href="https://ar.inspiredpencil.com/pictures-2023/gentoo-penguins-pebble">bottom left</a>, <a href="https://www.snexplores.org/article/penguin-swimming-physics-fastest-speed">right</a>. 
 
 
+
 ### Add your penguin *(and your name)*
+
