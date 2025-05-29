@@ -7,15 +7,15 @@
 Add your penguin and name as we learn a little more about GitHub and aquatic avians. All contributions are welcome, it is our aim to create conflict with this project. Despite what our name may suggest, we don't bite!
 
 # Meet the menagerie
-- [African Penguin 🐧](#african-penguin)
-- [Chinstrap](chinstrap)
-- [Gentoo Penguin](gentoo-penguin)
-- [Little Blue](little-blue)
-- [Macaroni Penguin](macaroni-penguin)
-- [Magellanic Penguin](magellanic-penguin) 
-- [Rockhopper](rockhopper)
-- [Royal Penguin](royal-penguin)
-- [Yellow-eyed](yellow-eyed)
+- [African Penguin 🐧](#african-penguin-)
+- [Chinstrap](#chinstrap)
+- [Gentoo Penguin](#gentoo-penguin)
+- [Little Blue](#little-blue)
+- [Macaroni Penguin](#macaroni-penguin)
+- [Magellanic Penguin](#magellanic-penguin)
+- [Rockhopper](#rockhopper)
+- [Royal Penguin](#royal-penguin)
+- [Yellow-eyed](#yellow-eyed)
 
 <br>
 
