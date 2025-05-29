@@ -1,6 +1,6 @@
 <link href="stylesheet.css" rel="stylesheet"></link>
 
-# cyberdux_duckguin
+# cyberdux_duckguin <img src="images/penguins/logo.png" align="right" height="70"/>
 ***An aquatic avian menagerie***
 
 # Quickstart
