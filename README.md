@@ -12,9 +12,9 @@ It is our aim to create conflict with this project.
 
 ![royal pegnuin](images/penguins/royal.jpg)
 
-According to Wikipedia, *Eudyptes schlegeli* is found only on the sub-Antarctic Macquarie and adjacent islands.
+According to Wikipedia, [*Eudyptes schlegeli*](https://en.wikipedia.org/wiki/Royal_penguin) is found only on the sub-Antarctic Macquarie and adjacent islands.
 
-It is very similar in appearance to the macaroni penguin, with which it occationally interbreeds, but is distinguised from that species by its white face.
+It is very similar in appearance to the macaroni penguin, with which it occationally interbreeds, but is distinguished from that species by its white face.
 
 Royals genereally lay two eggs, but typically, only incubate the second. Both parents share in this responsibility, rotating in 12-day shifts.
 
@@ -22,7 +22,7 @@ The royal penguin is classified in the IUCN Red List of Threatened Species as 'L
 
 ### Rockhopper *(Abhi, Elizna)*
 
-### African Penguin 🐧 (Anel)
+### African Penguin 🐧 *(Anel)*
 
 It might seem basic, but overlooking basics can have some detrimental effects. In this case, the African Penguin (affectionately known as the Cape Penguin) is currently critically endangered<sup><a href="https://en.m.wikipedia.org/wiki/African_penguin">1</a></sup>.
 
