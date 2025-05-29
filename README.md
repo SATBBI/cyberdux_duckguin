@@ -31,5 +31,7 @@ In my research on the topic, I learned two things:
 1. They are the only penguins that (naturally) occur in "The Old World"<sup><a href="https://en.m.wikipedia.org/wiki/African_penguin">1</a></sup>.
 2. "The Old World" is a term applied to Asia, Europe and Africa, to note the known world before the discovery of the Americas and Australia<sup><a href="https://en.m.wikipedia.org/wiki/Old_World">2</a></sup>.
 
+### Chinstrap (Devon)
+  * The chinstrap penguin (**Pygoscelis antarcticus**) gets its name from the narrow black band under its head, and inhabits a variety of islands and shores in the Southern Pacific and the Antarctic Oceans. ![Chinstrap Penguin](https://en.wikipedia.org/wiki/Chinstrap_penguin#/media/File:South_Shetland-2016-Deception_Island%E2%80%93Chinstrap_penguin_(Pygoscelis_antarctica)_04.jpg)
 
 ### Add your penguin *(and your name)*
