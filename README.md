@@ -24,6 +24,10 @@ The royal penguin is classified in the IUCN Red List of Threatened Species as 'L
 
 ### Rockhopper *(Abhi, Elizna)*
 
+![Rockhopper penguin](images/penguins/rockhopper-glamorous.jpg)
+
+A penguin, with a penchant for posing.
+
 I used this [Source]([url](https://www.aquarium.co.za/animals/northern-rockhopper-penguin)) to extract some information about our "friendly" neighbourhood penguins.
 
 - Rockhopper penguins are the smallest of the crested penguin species. They live on rocky, inaccessible coasts in the South Atlantic and Indian Oceans.
@@ -81,12 +85,12 @@ Chinstrap penguins can live to be 16-20 years old.
 
 * This adorable blue-feathered bird, also known as the **fairy penguin**, is the **smallest** penguin species in the world.
 * They have a **height** of 36 to 43 cm and **weight** of 0.9 to 1.4 kg (so small...).
-* Despite being **small and shy**, Little Blues are **very noisy**! They use a variety of calls for anything from bonding to defending their territory. 
+* Despite being **small and shy**, Little Blues are **very noisy**! They use a variety of calls for anything from bonding to defending their territory.
 * Little Blues are **marine neritic** birds, which means they prefer shallow coastal waters. They spend the day diving for food and return to their burrows at dusk. Interestingly, they are the only penguin species that is **nocturnal on land**.
 
 <div align="center">
- 
-Watch them in action on [YouTube](https://www.youtube.com/watch?v=aMmcFRWRJ8E) for some extra cuteness.  
+
+Watch them in action on [YouTube](https://www.youtube.com/watch?v=aMmcFRWRJ8E) for some extra cuteness.
 Or find out more on [Wikipedia](https://en.wikipedia.org/wiki/Little_penguin) and [Aquarium of the Pacific](https://www.aquariumofpacific.org/onlinelearningcenter/species/little_blue_penguin).
 
 </div>
@@ -94,17 +98,14 @@ Or find out more on [Wikipedia](https://en.wikipedia.org/wiki/Little_penguin) an
 
 ### Gentoo Penguin *(Alicen)*
 
-Beyond their elegant aesthetics, Gentoo penguins are renowned for their remarkable agility, holding the title of the world's fastest underwater birds<sup><a href="https://www.britannica.com/animal/gentoo-penguin">1</a></sup>. These penguins made their Hollywood debut in 2007 with the beloved animated character, Lani, in *Surf's Up*<sup><a href="https://surfs-up.fandom.com/wiki/Lani_Aliikai">2</a></sup>. Gentoo penguins are also known for partaking in a human-like courtship ritual—offering a pebble in exchange for a lifetime partnership<sup><a href="https://www.bbcearth.com/news/the-gift-to-win-a-penguins-heart">3</a></sup>. With their multifaceted charm, these flightless birds are sure to speedily find their way into your heart.   
+Beyond their elegant aesthetics, Gentoo penguins are renowned for their remarkable agility, holding the title of the world's fastest underwater birds<sup><a href="https://www.britannica.com/animal/gentoo-penguin">1</a></sup>. These penguins made their Hollywood debut in 2007 with the beloved animated character, Lani, in *Surf's Up*<sup><a href="https://surfs-up.fandom.com/wiki/Lani_Aliikai">2</a></sup>. Gentoo penguins are also known for partaking in a human-like courtship ritual—offering a pebble in exchange for a lifetime partnership<sup><a href="https://www.bbcearth.com/news/the-gift-to-win-a-penguins-heart">3</a></sup>. With their multifaceted charm, these flightless birds are sure to speedily find their way into your heart.
 
 ![Gentoo penguin](images/penguins/Gentoo.jpg) <br>
-**Image sources:** <a href="https://www.josephfiler.com/photo/antarctica-penguin-3986/">top left</a>, <a href="https://ar.inspiredpencil.com/pictures-2023/gentoo-penguins-pebble">bottom left</a>, <a href="https://www.snexplores.org/article/penguin-swimming-physics-fastest-speed">right</a>. 
-
-
-
-### Add your penguin *(and your name)*
-
+**Image sources:** <a href="https://www.josephfiler.com/photo/antarctica-penguin-3986/">top left</a>, <a href="https://ar.inspiredpencil.com/pictures-2023/gentoo-penguins-pebble">bottom left</a>, <a href="https://www.snexplores.org/article/penguin-swimming-physics-fastest-speed">right</a>.
 
 ### Magellanic penguin (Chipo)
 
 [Magellanic penguins](https://en.wikipedia.org/wiki/Magellanic_penguin) are medium-sized penguins named after the explorer Ferdinand Magellan, who first spotted them in 1520. They have a habit of braying like donkeys when communicating, earning them the nickname "jackass penguins" among locals. These birds sport a distinctive "formal wear" appearance with a black back, white belly, and two black bands across their chest that look like a dapper tuxedo with a double belt. Standing about 2 feet tall and weighing 8-14 pounds, they're natural swimmers that can dive up to 300 feet deep and swim at speeds of 15 mph. Despite their waddling walk on land, they transform into underwater acrobats when hunting for anchovies, squid, and krill. These sociable birds form large breeding colonies along the coasts of Argentina, Chile, and the Falkland Islands. The species is currently listed as near threatened by the The International Union for Conservation of Nature (IUCN). They face threats from overfishing, oil pollution, climate change, and human disturbance. Conservation efforts like protected areas, pollution control, and global teamwork give hope for their survival.
 
+
+### Add your penguin *(and your name)*
