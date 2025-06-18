@@ -1,0 +1,3 @@
+img[src^="images/penguins"] {
+    width: 200px;
+}
